@@ -1,0 +1,50 @@
+h1 {
+        font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+        text-align: center;
+        color: #505050;
+        margin-bottom: 5px;
+        text-decoration: bold;
+    }
+h2 {
+        font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+        text-align: center;
+        font-size: 12pt;
+        color: #505050;
+        margin-bottom: 5px;
+    }
+h3 {
+        font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+        text-align: center;
+        font-size: 12pt;
+        color: #505050;
+        margin-bottom: 5px;;
+    }
+h4 {
+        font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+        text-align: center;
+        font-size: 12pt;
+        color: #505050;
+        margin-bottom: 5px;
+    }
+h5 {
+        font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+        text-align: center;
+        font-size: 12pt;
+        color: #505050;
+        margin-bottom: 5px;    }
+h6 {
+        font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+        text-align: center;
+        font-size: 12pt;
+        color: #505050;
+        margin-bottom: 5px;
+    }
+
+    #trHeader {
+        text-decoration: underline;
+        color: #990000;
+    }
+  
+    .centerCell {
+        text-align: center;
+    }
